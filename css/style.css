@@ -64,3 +64,6 @@ p.indo-para {
     text-transform: uppercase;
 }
 
+.holiday.container-fluid {
+    background: black;
+}
