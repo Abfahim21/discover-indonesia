@@ -27,3 +27,9 @@ span.indonesia {
     font-style: normal;
     line-height: 1.1;
 }
+
+.ninety-degree-text {
+    transform: rotate(90deg); /* sets the rotation angle to 90 degrees */
+    transform-origin: top left; /* sets the origin of the rotation to the top left corner */
+    white-space: nowrap; /* prevents text from wrapping */
+}
