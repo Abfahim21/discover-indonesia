@@ -52,9 +52,13 @@ span.indonesia {
     align-items: center;
     gap: 15%;
     padding-top: 200px;
+    padding-bottom: 750px;
+}
+p.indo-para {
+    color: rgba(255, 193, 120, 1);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
 }
 
-p.indo-scroll {
-    padding-top: 125px;
-    padding-bottom: 730px;
-}
