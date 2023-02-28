@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero.container-fluid {
+    background-image: url("../images/Background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
