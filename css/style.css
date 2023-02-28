@@ -51,4 +51,10 @@ span.indonesia {
     justify-content: flex-start;
     align-items: center;
     gap: 15%;
+    padding-top: 200px;
+}
+
+p.indo-scroll {
+    padding-top: 125px;
+    padding-bottom: 730px;
 }
