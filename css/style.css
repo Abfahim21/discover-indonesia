@@ -4,6 +4,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
+    color: white;
 }
 
 .hero.container-fluid {
@@ -12,3 +13,11 @@
     background-repeat: no-repeat;
     background-size: auto;
 }
+
+.hero-text h1 {
+    font-style: normal;
+    font-size: 96px;
+    font-weight: 700;
+    color: white;
+}
+
