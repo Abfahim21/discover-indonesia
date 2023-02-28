@@ -30,6 +30,25 @@ span.indonesia {
 
 .ninety-degree-text {
     transform: rotate(90deg); /* sets the rotation angle to 90 degrees */
-    transform-origin: top left; /* sets the origin of the rotation to the top left corner */
+    transform-origin: top; /* sets the origin of the rotation to the top left corner */
     white-space: nowrap; /* prevents text from wrapping */
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.hero-follow {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.hero-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15%;
 }
