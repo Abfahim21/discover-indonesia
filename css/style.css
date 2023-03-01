@@ -9,7 +9,7 @@
 
 .hero.container-fluid {
     background-image: url("../images/Background.png");
-    background-position: center;
+    background-position: unset;
     background-repeat: no-repeat;
     background-size: auto;
 }
